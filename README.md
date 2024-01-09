@@ -1,1 +1,1 @@
-# washington-capitals.github.io
+# arizona-coyotes.github.io
