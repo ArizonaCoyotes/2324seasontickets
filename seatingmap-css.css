@@ -106,9 +106,9 @@ body {
     text-align: left;
     padding: 5px 10px 5px 10px;
     margin: 0px;
-    color: #ffffff;
+    color: #000000;
     font-size: 16pt;
-    background-color: transparent;
+    background-color: #f3f3f3;
     font-family: Rift;
     letter-spacing: 2px;
   }
