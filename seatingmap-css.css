@@ -34,7 +34,7 @@ body {
   cursor: pointer;
   width: 100%;
   text-align: left;
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   outline: none;
   transition: 0.4s !important;
 }
